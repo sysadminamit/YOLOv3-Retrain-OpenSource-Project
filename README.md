@@ -606,3 +606,4 @@ Softmax layer is replaced by 1x1 convolutional layer with logistic function. By 
 - Feature Pyramid Networks for Object Detection: [The paper](https://arxiv.org/abs/1612.03144)
 - Deep Residual Learning: [The presentation slides](https://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
 - [Learn Python programming](https://pylessons.com/YOLOv3-custom-training/)
+- [A Closer Look at YOLOv3](https://www.cyberailab.com/home/a-closer-look-at-yolov3)
